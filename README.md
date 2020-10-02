@@ -1,0 +1,1 @@
+# sparta-global-mini-sql-project
