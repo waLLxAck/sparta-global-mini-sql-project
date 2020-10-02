@@ -1,1 +1,1 @@
-# sparta-global-mini-sql-project
+# Sparta Global Mini SQL Project
